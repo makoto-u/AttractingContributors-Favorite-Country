@@ -29,3 +29,4 @@ Please tell me. You CAN add one which has been already added.
 6. 鯖生姜
 7. Tuna-Mayonnaise
 8. Mentaiko (明太子)
+9. 焼きたらこ
